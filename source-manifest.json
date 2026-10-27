@@ -1,0 +1,214 @@
+{
+  "asset": "GPT's Harold Washington Library",
+  "author": "X_Bean_X",
+  "publishedVersion": "1.1.0",
+  "publishedPackageSHA256": "795a4b1c15cb303063a1871a6ae7a631c251c409841274fced489209ae01c6cd",
+  "authoringFiles": [
+    {
+      "path": "Evidence/city_building_footprints.json",
+      "bytes": 16276,
+      "sha256": "cb50464ee54e0e56339bf199c80517127c8c1e13f2142dd4c156af45eca721c5"
+    },
+    {
+      "path": "Evidence/osm_site_ways.json",
+      "bytes": 285039,
+      "sha256": "54df8ca45fa63cbcd7ed6a88df3e19c82b0700983a4e8d70b56f49748f1b4ae0"
+    },
+    {
+      "path": "Evidence/site_measurements.json",
+      "bytes": 4429,
+      "sha256": "9759f4e138ecfac2c294d2456b00eb8bc1506bdabaef1c681809242ea81aa83c"
+    },
+    {
+      "path": "Evidence/site_objects_components.json",
+      "bytes": 68168,
+      "sha256": "8dcbcaec5973c2993871c70449a58d0797e58699c5defd2bf4aed74d7e0e704d"
+    },
+    {
+      "path": "Evidence/site_prefab_components.json",
+      "bytes": 62958,
+      "sha256": "eec5d3835a5845be827c93097ee4a3c6fe2a19c5525e1e1cd0d4ace18260e471"
+    },
+    {
+      "path": "Scripts/HWLCreateV3_20261020_v1.cs",
+      "bytes": 2067,
+      "sha256": "2b974e81f32a5529e7d1770da8ec3744d91132b604ee90d8678b539c01f21644"
+    },
+    {
+      "path": "Scripts/HWLCreateV4_20261020_v1.cs",
+      "bytes": 2097,
+      "sha256": "aad2893643020c43ffb952d524a7e1b100a93b77070b3e6d51fb2a279cfdc9b3"
+    },
+    {
+      "path": "Scripts/HWLCreateV5_20261020_v1.cs",
+      "bytes": 2419,
+      "sha256": "b2f1e9b500189858cea7abeb131bec688b17e8a608f073089e97e70824af5793"
+    },
+    {
+      "path": "Scripts/HWLCreateV6_20261020_v1.cs",
+      "bytes": 4882,
+      "sha256": "c22c73f7658f196b77fe2d2dbf02ce1a8cd53d556a49d8116fbb7ef63ad33f85"
+    },
+    {
+      "path": "Scripts/HWLCreateV7_20261020_v1.cs",
+      "bytes": 4975,
+      "sha256": "1d0a36b5e0433955f520917db1426df6c3c41a6497b3a72354636420c7ffbf4f"
+    },
+    {
+      "path": "Scripts/HWLLibraryLighting20261022_v1.cs",
+      "bytes": 4225,
+      "sha256": "1d9bb7dcf7bc8570d5cc56ea2f0857360924635e484e2b3010d9ffa507eb0318"
+    },
+    {
+      "path": "Scripts/HWLLibraryLighting20261022_v2.cs",
+      "bytes": 4227,
+      "sha256": "a59bc47584aa593adc0e1e219895e4365afc73ea033173299a739df2e84f6051"
+    },
+    {
+      "path": "Scripts/HWLLibraryNativePower20261022_v1.cs",
+      "bytes": 4211,
+      "sha256": "5d83e3ea110ed5622a1635a0b9d09060d995a2a8db28204cdf648f123ce84165"
+    },
+    {
+      "path": "Scripts/HWLLibraryNativePower20261022_v2.cs",
+      "bytes": 4200,
+      "sha256": "adfc19e4c10162437471ae76b3093cba74008c10c19d72f607bed6f2303f2d0c"
+    },
+    {
+      "path": "Scripts/build_library.py",
+      "bytes": 18705,
+      "sha256": "c1017f21dfefe43cea02befef0724532767016003d228a2139852d82f5050a78"
+    },
+    {
+      "path": "Scripts/build_library_v002.py",
+      "bytes": 4508,
+      "sha256": "a51d195c271e4c3512ba4c953fe8f8671ac93eb5deae33860ac04822fa04ae70"
+    },
+    {
+      "path": "Scripts/build_stable_lod2.py",
+      "bytes": 2031,
+      "sha256": "273e320f2c43a3e41adc2cdade684a5b69f5d6229059bf8759e828621c6785bd"
+    },
+    {
+      "path": "Scripts/build_window_lighting_v008.py",
+      "bytes": 6038,
+      "sha256": "c7b4ed367dac1edbf04f3de9cb7002d635b79a51f2f4cf6c2f8e5f4e879b513c"
+    },
+    {
+      "path": "Scripts/export_versioned_v003.py",
+      "bytes": 1092,
+      "sha256": "6a51beba471dad0d587e79de6c480d4210b0b1af600b2a86c07413713a276dbe"
+    },
+    {
+      "path": "Scripts/make_textures.py",
+      "bytes": 1709,
+      "sha256": "3cd47287b96d3316e551ac62aa8c8457cd9c7a4969253992a1c2a2f2bf1cd9f5"
+    },
+    {
+      "path": "Scripts/refine_library_v006.py",
+      "bytes": 14189,
+      "sha256": "93c65e811a85f968a7c415552a1f41ccba439f8e2c53a9dcb37beacd15e6cdd9"
+    },
+    {
+      "path": "Scripts/refine_library_v007.py",
+      "bytes": 14382,
+      "sha256": "cadd06fe35b41df48b51062529d8b78e4b744a4ba8c25d96eacd661528f0a4e2"
+    },
+    {
+      "path": "Scripts/repair_native_faces_v003.py",
+      "bytes": 2194,
+      "sha256": "0ac1a406181d659ad4edf7dcbac6d75577e22723fb925779ecd8220005ac5ce9"
+    },
+    {
+      "path": "Source/X_Bean_X_HWL_WindowLights_v008.blend",
+      "bytes": 184662,
+      "sha256": "bc9d9b62613f46aa1989dc9fbd3e0d99b93d34fa87f924f1ea067b80629f064d"
+    },
+    {
+      "path": "Source/X_Bean_X_HaroldWashingtonLibrary_v001.blend",
+      "bytes": 673324,
+      "sha256": "3a70409926b0ee36ae1a9c495084eae9906e3b45814dac328afbfaca3d59cdca"
+    },
+    {
+      "path": "Source/X_Bean_X_HaroldWashingtonLibrary_v002.blend",
+      "bytes": 2957727,
+      "sha256": "bea78281c8b0923be6ae04b4e4541b4d59266d7c5f21649bfaeb438106de436e"
+    },
+    {
+      "path": "Source/X_Bean_X_HaroldWashingtonLibrary_v003.blend",
+      "bytes": 2958510,
+      "sha256": "bf66bf32fbbc0196ee5250744c170f2c05f95637055af393791bc17e7127841a"
+    },
+    {
+      "path": "Source/X_Bean_X_HaroldWashingtonLibrary_v006.blend",
+      "bytes": 1799376,
+      "sha256": "6262df09abe75dac9779cd9226c89c9a2b0a98f9292d3226d4e2a67652dad86d"
+    },
+    {
+      "path": "Source/X_Bean_X_HaroldWashingtonLibrary_v007.blend",
+      "bytes": 1799296,
+      "sha256": "4ca493e7d6e832873f68c6e1fe89f3485c62c9702d574d8d51157b78b7d83b6f"
+    },
+    {
+      "path": "Textures/HWL_BaseColor.png",
+      "bytes": 1543888,
+      "sha256": "1b268d99d664e0122b90bd4251055328fea6c5078c5c3b09c3c0adf568e6946f"
+    },
+    {
+      "path": "Textures/HWL_ControlMask.png",
+      "bytes": 16352,
+      "sha256": "4577c7f722a16789a37d9e5395b0df8b2c75182fa6db5c15ca21a7daf17bbbe1"
+    },
+    {
+      "path": "Textures/HWL_MaskMap.png",
+      "bytes": 18915,
+      "sha256": "130eb8e80176770c14b36610c76c9a813f33ce917ad672c823044eadc5d38cd9"
+    },
+    {
+      "path": "Textures/HWL_Normal.png",
+      "bytes": 22646,
+      "sha256": "677ad3a4bf21a1b8b0aefd25415e1a59240eeb7499afd5bef3473bba93260922"
+    },
+    {
+      "path": "Textures/V006/HWL_BaseColor.png",
+      "bytes": 2262703,
+      "sha256": "26a6e8b85af33319d08a39ae972b54edb3c045d5183260f86df68d7fb19b9477"
+    },
+    {
+      "path": "Textures/V006/HWL_ControlMask.png",
+      "bytes": 73562,
+      "sha256": "780b00028040ce674eb182c884ab891adbb7b4b516580ed4b84863ef0d5893d2"
+    },
+    {
+      "path": "Textures/V006/HWL_MaskMap.png",
+      "bytes": 76040,
+      "sha256": "cc377cc93914bcd5fffb5eb4826e848403074e89d2499f5173a2b36a964d927c"
+    },
+    {
+      "path": "Textures/V006/HWL_Normal.png",
+      "bytes": 83229,
+      "sha256": "0e464f4d6af9cd7569e68b9d6ea344f59e60b4b7bd31e00dfee09f53f752236f"
+    },
+    {
+      "path": "Textures/V007/HWL_BaseColor.png",
+      "bytes": 2262703,
+      "sha256": "26a6e8b85af33319d08a39ae972b54edb3c045d5183260f86df68d7fb19b9477"
+    },
+    {
+      "path": "Textures/V007/HWL_ControlMask.png",
+      "bytes": 73562,
+      "sha256": "780b00028040ce674eb182c884ab891adbb7b4b516580ed4b84863ef0d5893d2"
+    },
+    {
+      "path": "Textures/V007/HWL_MaskMap.png",
+      "bytes": 76040,
+      "sha256": "cc377cc93914bcd5fffb5eb4826e848403074e89d2499f5173a2b36a964d927c"
+    },
+    {
+      "path": "Textures/V007/HWL_Normal.png",
+      "bytes": 83229,
+      "sha256": "0e464f4d6af9cd7569e68b9d6ea344f59e60b4b7bd31e00dfee09f53f752236f"
+    }
+  ],
+  "nativeDefinitionFiles": 109
+}
