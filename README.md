@@ -2,13 +2,15 @@
 
 Editable asset source by **X_Bean_X** for Cities: Skylines II.
 
-[Paradox Mods listing](https://mods.paradoxplaza.com/mods/164462/Any) — published version **1.1.0**.
+[Paradox Mods listing](https://mods.paradoxplaza.com/mods/164462/Any) — published version **2.0.1**.
 
 ## Contents
 
 - `AuthoringSource-*.zip`: retained Blender scenes, texture sources and authoring scripts. Extract all numbered archives into the same directory; each archive is independent. Historical scene revisions are retained where they form part of the authoring chain.
 - `NativeDefinitions.zip`: native prefab, material, localization and identifier definitions extracted from the exact current public package. These capture the published asset configuration, including changes made after geometry generation.
 - `source-manifest.json`: file inventory, SHA-256 checksums and the published package fingerprint.
+
+The Plymouth Court redesign is in `AuthoringSource-02.zip`. Its Blender scene and authoring scripts cover the west stone base, furnished glass wall, roof gable and Winter Garden lighting.
 
 ## Editing
 
@@ -20,7 +22,7 @@ The playable asset remains available through Paradox Mods. This source publicati
 
 ## Provenance
 
-Current public package SHA-256: `795a4b1c15cb303063a1871a6ae7a631c251c409841274fced489209ae01c6cd`. Both the public download and its inner package passed ZIP integrity checks. Source archives were checked after creation.
+Current public package SHA-256: `87c72c524afbcbbb51905156ab10230ea0723de3f7a1a34526fe217ab98fc359`. Both the public download and its inner package passed ZIP integrity checks. Source archives were checked after creation.
 
 No additional reuse license is granted by this source publication.
 

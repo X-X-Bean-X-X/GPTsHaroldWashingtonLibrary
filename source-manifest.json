@@ -1,8 +1,8 @@
 {
   "asset": "GPT's Harold Washington Library",
   "author": "X_Bean_X",
-  "publishedVersion": "1.1.0",
-  "publishedPackageSHA256": "795a4b1c15cb303063a1871a6ae7a631c251c409841274fced489209ae01c6cd",
+  "publishedVersion": "2.0.1",
+  "publishedPackageSHA256": "87c72c524afbcbbb51905156ab10230ea0723de3f7a1a34526fe217ab98fc359",
   "authoringFiles": [
     {
       "path": "Evidence/city_building_footprints.json",
@@ -208,7 +208,57 @@
       "path": "Textures/V007/HWL_Normal.png",
       "bytes": 83229,
       "sha256": "0e464f4d6af9cd7569e68b9d6ea344f59e60b4b7bd31e00dfee09f53f752236f"
+    },
+    {
+      "path": "Revisions/Plymouth-Court-2.0.1/Scripts/build_redesign.py",
+      "bytes": 33341,
+      "sha256": "98be451064ff9b49f936dfd63d6eb5f12ce6801961d1c6ddc6e0f855af0bf023"
+    },
+    {
+      "path": "Revisions/Plymouth-Court-2.0.1/Scripts/library_exterior.py",
+      "bytes": 28952,
+      "sha256": "997d303a5015c9eab22e673412b5a4e0ca6e89b7dc65c359a1b5755df0ffd767"
+    },
+    {
+      "path": "Revisions/Plymouth-Court-2.0.1/Scripts/library_mesh.py",
+      "bytes": 10875,
+      "sha256": "86161f7cfa6bb44253dc8597cce130b634cae5a2815f5152eccc202c0d2b4012"
+    },
+    {
+      "path": "Revisions/Plymouth-Court-2.0.1/Scripts/library_released_body.py",
+      "bytes": 6625,
+      "sha256": "b66e96c636e672701dad3a74f6e3a50eaaea8d588e0fce4183f124afbb97a6dd"
+    },
+    {
+      "path": "Revisions/Plymouth-Court-2.0.1/Scripts/library_roof.py",
+      "bytes": 8415,
+      "sha256": "e1d0c7482650dce5fd3082d9d570447231c302fe3684cc3d2d67cb57ed03b228"
+    },
+    {
+      "path": "Revisions/Plymouth-Court-2.0.1/Scripts/library_rooms.py",
+      "bytes": 10258,
+      "sha256": "34db2553b973c88e7845efd9b34afe1c57d4b04fb1879a53f1442d5c0b155af2"
+    },
+    {
+      "path": "Revisions/Plymouth-Court-2.0.1/Source/GPTs_Harold_Washington_Library_Redesign.blend",
+      "bytes": 10995482,
+      "sha256": "cd340d4f6810cbf07917762a953d23936669331cf2602e850b88d4f4ffdd395f"
+    },
+    {
+      "path": "Revisions/Plymouth-Court-2.0.1/Validation/exterior-redesign-audit.json",
+      "bytes": 40356,
+      "sha256": "2188f96c2b23d903a2185d45a7c5b38423158a38846f5086fc9081c12351b344"
+    },
+    {
+      "path": "Validation/window-layout-v008.json",
+      "bytes": 1228542,
+      "sha256": "5e2d0c2fc45dd2f80aa1c217bdfa67579163873682933329d66d05ae1f82cdae"
     }
   ],
-  "nativeDefinitionFiles": 109
+  "nativeDefinitionFiles": 93,
+  "archivesSHA256": {
+    "AuthoringSource-01.zip": "4a43a05526d2109fe40d56191f9bc6662856797a99639c581eb411bfc8cb0191",
+    "AuthoringSource-02.zip": "268110decda3db9ea3d6939ff82bb05693f0fffb8d8a16645b4ca553a96cd5e1",
+    "NativeDefinitions.zip": "b7cc2a873627664660e5f22bbafa73c1985f08488bc5baa5a9eecf4753c5473b"
+  }
 }
